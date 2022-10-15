@@ -28,12 +28,6 @@ textarea {
   white-space: pre-wrap;
 }
 
-#timeBlocks {
-  text-align: left;
-  background-color: black;
-  color: white;
-  height: 10000px;
-}
 
 .row {
   white-space: pre-wrap;
