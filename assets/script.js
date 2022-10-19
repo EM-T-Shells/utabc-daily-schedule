@@ -151,15 +151,15 @@ whatTodoToday.forEach(function(thisHour) {
   todoText.attr("id", thisHour.id);
   if (thisHour.time < dayJsObject) {
   todoText.attr ({
-      "class": "past col-10",
+      "class": "past col-12",
   })
   } else if (thisHour.time === dayJsObject) {
   todoText.attr({
-      "class": "present col-10"
+      "class": "present col-12"
   })
   } else if (thisHour.time > dayJsObject) {
   todoText.attr({
-      "class": "future col-10"
+      "class": "future col-12"
   })
   }
 
