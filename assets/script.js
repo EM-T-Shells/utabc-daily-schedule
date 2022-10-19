@@ -1,8 +1,5 @@
-//current time
-
-//console.log(dayJsObject.format("h:mm A"));
 //header date
-let currentDate = document.getElementById('currentDate').innerHTML = dayjs().format("M/D/YYYY h:mm A");
+let currentDate = document.getElementById('currentDate').innerHTML = dayjs().format("M/D/YYYY");
 
 let dayJsObject = dayjs().format("hh");
 console.log(dayJsObject);
