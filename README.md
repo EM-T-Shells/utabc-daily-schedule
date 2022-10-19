@@ -18,10 +18,8 @@ To see any changes you may desire to experiment with and see in real time, use t
 If changes to time slots desired, add or remove values from the 'whatTodoToday' object at top of JS file. No further modifications needed.   
 ![]()
 ## App Screenshots
-![](assets/images/mainpage.png width=400px)  
-![](assets/images/pastpresent.png width=400px)  
-
-[Hall of Fame](assets/images/hofPage.png)  
+![](assets/images/mainpage.png w=400px)  
+![](assets/images/pastpresent.png w=400px)  
 ![]()
 ### Resources:
 https://www.toptal.com/software/definitive-guide-to-datetime-manipulation  
@@ -37,6 +35,6 @@ https://www.elated.com/jquery-getting-started/
 #
 ### Curator: Emre Taskale  
 #
-###[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+###![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ###
 ###
