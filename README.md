@@ -4,6 +4,7 @@
 Simple daily planner which allows user to type in a todo event within a time hour slot and allows saving the todo while keeping it there when page is refreshed.
 THe application uses the newer-ish, Dayjs API. According to dayjs.org: "Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API." In a nutshell, it is lightweight API that is packed with everything (almost) moment.js API contains. It also supports many useful plugins such as localizedformat. Jquery was also implemented to streamline the javascript DOM methods and functions. The browser API is used to locally store user data and to also call back any previous stored data, so the application may pickup when it was last used. Hope you enjoy!
 
+### [Click here to see the webpage!](https://em-t-shells.github.io/utabc-daily-schedule/)
 
 ![]()
 ## Installation
@@ -20,6 +21,7 @@ If changes to time slots desired, add or remove values from the 'whatTodoToday' 
 ## App Screenshots
 <img src="assets/images/mainpage.png" alt="screenshot" width="400"/>
 <img src="assets/images/pastpresent.png" alt="screenshot" width="400"/>
+<img src="assets/images/changeit.png" alt="screenshot" width="400"/>
 
 ### Resources:
 https://www.toptal.com/software/definitive-guide-to-datetime-manipulation
@@ -35,9 +37,6 @@ https://momentjs.com/
 https://day.js.org/docs/en/installation/browser
 
 https://www.elated.com/jquery-getting-started/
-
-![]()
-### [See the live Webpage](https://em-t-shells.github.io/utabc-daily-schedule/)
 #
 ### Curator: Emre Taskale
 #
