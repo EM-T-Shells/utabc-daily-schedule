@@ -1,8 +1,7 @@
 //header date
 let currentDate = document.getElementById('currentDate').innerHTML = dayjs().format("M/D/YYYY");
 
-let dayJsObject = dayjs().format("hh");
-console.log(dayJsObject);
+let dayJsObject = dayjs().format("HH");
 
 var whatTodoToday = [
   {
